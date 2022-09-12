@@ -1,12 +1,13 @@
 {
-  "name": "@mikecodeur/react-module-template",
-  "title": "React Module Template",
-  "description": "Module template pour la création future de module de formation",
+  "name": "@mikecodeur/typescript-fondamentaux",
+  "title": "TypeScript Fondamentaux",
+  "course": "typescript",
+  "description": "Module : Les fondamentaux de TypeScript - formation TypeScript PRO",
   "author": "Mike Codeur <contact@mikecodeur.com> (https://mikecodeur.com/)",
   "version": "1.0.0",
   "private": true,
   "keywords": [],
-  "homepage": "https://react-module-template.mikecodeur.com",
+  "homepage": "https://typescript-fondamentaux.mikecodeur.com",
   "license": "GPL-3.0-only",
   "main": "src/index.js",
   "engines": {
@@ -14,7 +15,7 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@mikecodeur/react-course-app": "0.2.1",
+    "@mikecodeur/react-course-app": "0.3.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^13.1.9",
     "@types/react": "^17.0.11",
@@ -75,10 +76,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikecodeur/react-module-template.git"
+    "url": "git+https://github.com/mikecodeur/typescript-fondamentaux.git"
   },
   "bugs": {
-    "url": "https://github.com/mikecodeur/react-module-template/issues"
+    "url": "https://github.com/mikecodeur/typescript-fondamentaux/issues"
   },
   "msw": {
     "workerDirectory": "public"
