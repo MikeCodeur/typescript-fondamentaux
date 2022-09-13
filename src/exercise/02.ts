@@ -1,14 +1,23 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+// ❌ NE PAS MODIFIER
+// Utilitaire ne faisant pas partie de l'exercice
 import displayText, {init} from './helper/exerciseHelper'
-import roomHelper, {TEMP_MAX, calculPerimetre} from './helper/roomHelper'
-
 init()
-displayText('Hello World')
 
-let lib = "Air de d'un pièce de 2 par 5 donne " + roomHelper(2, 5)
-displayText(lib)
+// ✔️ Début de l'exercice
 
-lib = "Périmètre de d'un pièce de 2 par 5 donne " + calculPerimetre(2, 5)
-displayText(lib)
+// 🐶 Créer une variable `names` mais sans initiliser de valeurs
+//  ajoute ensuite 'John' et 'doe' à `name` sans utiliser la méthode `push()`
+let names = []
 
-lib = "La température max d'une pièce est " + TEMP_MAX
-displayText(lib)
+// 🤖 affiche 'Il y a 2 noms' dans le navigateur grace à `displayText` et `.length`
+
+// 🐶 Créer une constante `games` et initialise avec un tableau vide
+// avec la méthode `push()` ajoute 3 jeux
+// ⛏️ const games
+// 🤖 affiche le nombre d'élément à l'ecran
+
+// 🐶 Créer une constante `things` : un tableau qui peut prendre n'importe quel type de donnée
+// ⛏️ const things
+
+// 🤖 affiche le nombre d'élément à l'ecran

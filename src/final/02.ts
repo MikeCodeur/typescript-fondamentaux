@@ -1,14 +1,24 @@
+// ❌ NE PAS MODIFIER
+// Utilitaire ne faisant pas partie de l'exercice
 import displayText, {init} from './helper/exerciseHelper'
-import roomHelper, {TEMP_MAX, calculPerimetre} from './helper/roomHelper'
-
 init()
-displayText('Hello World')
 
-let lib = "Air de d'un pièce de 2 par 5 donne " + roomHelper(2, 5)
-displayText(lib)
+let names: string[]
+names = ['John', 'doe']
 
-lib = "Périmètre de d'un pièce de 2 par 5 donne " + calculPerimetre(2, 5)
-displayText(lib)
+displayText(`il y a ${names.length} noms`)
 
-lib = "La température max d'une pièce est " + TEMP_MAX
-displayText(lib)
+const games: string[] = []
+games.push('Call of')
+games.push('FIFA')
+games.push('Assasin creed')
+
+displayText(`il y a ${games.length} jeux`)
+
+let things: any[] = []
+things.push('Call of')
+things.push(true)
+things.push({name: 'John'})
+things.push([1])
+
+displayText(`il y a ${things.length} choses`)
