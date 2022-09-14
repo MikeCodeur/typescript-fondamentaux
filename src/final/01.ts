@@ -1,5 +1,5 @@
 // Les Types de bases
-// http://localhost:3000/alone/final/01.js
+// http://localhost:3000/alone/final/01.ts
 
 // ❌ NE PAS MODIFIER
 // Utilitaire ne faisant pas partie de l'exercice

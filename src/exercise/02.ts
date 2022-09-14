@@ -1,4 +1,6 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+// Les tableaux
+// http://localhost:3000/alone/exercise/02.ts
+
 // ❌ NE PAS MODIFIER
 // Utilitaire ne faisant pas partie de l'exercice
 import displayText, {init} from './helper/exerciseHelper'
@@ -21,3 +23,8 @@ let names = []
 // ⛏️ const things
 
 // 🤖 affiche le nombre d'élément à l'ecran
+
+/*
+eslint
+  @typescript-eslint/no-unused-vars: "off"
+*/

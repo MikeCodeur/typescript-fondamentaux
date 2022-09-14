@@ -1,3 +1,6 @@
+// Les tableaux
+// http://localhost:3000/alone/final/02.ts
+
 // ❌ NE PAS MODIFIER
 // Utilitaire ne faisant pas partie de l'exercice
 import displayText, {init} from './helper/exerciseHelper'
