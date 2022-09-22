@@ -65,12 +65,9 @@ class Dog extends Animal implements Mammal {
   }
 }
 
-class Fish extends Animal implements Runnable, Swimable {
+class Fish extends Animal implements Swimable {
   constructor(name: string) {
     super(name, 4, false)
-  }
-  run() {
-    console.log(`Je cours`)
   }
   swim() {
     console.log(`Je nage`)
@@ -88,7 +85,6 @@ mowgli.drink()
 displayText(`Nom du chien ${mowgli.printName()}`)
 
 const nemo = new Fish('Nemo')
-nemo.run()
 nemo.swim()
 displayText(`Nom du poisson ${nemo.printName()}`)
 

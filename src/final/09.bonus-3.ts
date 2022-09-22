@@ -1,5 +1,6 @@
-// Les fonctions
-// http://localhost:3000/alone/exercise/08.ts
+// Les interfaces
+// 🚀 Interfaces paramètres
+// http://localhost:3000/alone/exercise/09.bonus-1.ts
 
 // ❌ NE PAS MODIFIER
 // Utilitaire ne faisant pas partie de l'exercice
@@ -10,6 +11,9 @@ interface IName {
   name: string
   printName: () => string
 }
+
+type Mammal = Runnable & Drinkable
+
 interface Runnable {
   run: () => void
 }
@@ -37,7 +41,7 @@ class Animal implements IName {
   }
 }
 
-class Cat extends Animal implements Runnable, Drinkable {
+class Cat extends Animal implements Mammal {
   constructor(name: string) {
     super(name, 4, false)
   }
@@ -49,7 +53,7 @@ class Cat extends Animal implements Runnable, Drinkable {
   }
 }
 
-class Dog extends Animal implements Runnable, Drinkable {
+class Dog extends Animal implements Mammal {
   constructor(name: string) {
     super(name, 4, false)
   }
@@ -83,6 +87,21 @@ displayText(`Nom du chien ${mowgli.printName()}`)
 const nemo = new Fish('Nemo')
 nemo.swim()
 displayText(`Nom du poisson ${nemo.printName()}`)
+
+function sayHelloAndRun(runner: Runnable) {
+  console.log('Hello')
+  runner.run()
+}
+sayHelloAndRun(tigrou)
+//sayHelloAndRun(nemo) // ❌ Error
+
+function doSomeThingWithDrinkers(drinker: Drinkable) {
+  displayText(`Je bois`)
+  drinker.drink()
+}
+doSomeThingWithDrinkers(tigrou)
+doSomeThingWithDrinkers(mowgli)
+//doSomeThingWithDrinkers(nemo) // ❌ Error
 
 /*eslint
   @typescript-eslint/no-unused-vars: "off"
