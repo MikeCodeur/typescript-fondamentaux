@@ -108,7 +108,7 @@ L'application est basé sur react-create-app et
 [react-scripts](https://create-react-app.dev/).
 
 Vous pouvez aussi acceder au déploiement
-[déploiement sur Netlify](https://react-prerequis-debutant.mikecodeur.com/).
+[déploiement sur Netlify](https://typescript-fondamentaux.mikecodeur.com//).
 
 ## Executer les tests
 
