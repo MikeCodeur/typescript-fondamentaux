@@ -10,7 +10,7 @@
   <a href="https://go.mikecodeur.com/typescript-pro">
     <img 
       alt="Apprendre TypeScript"
-      src="https://mikecodeur.com/mike/assets/courses/ts-pro.png"
+      src="https://mikecodeur.com/mike/assets/courses/ts-pro2.png"
     />
   </a>
  
