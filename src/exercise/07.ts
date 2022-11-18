@@ -16,7 +16,7 @@ type car = any
 // - mass un nombre optionel
 function kineticEnergy() {
   // calcul l'energie avec cette formule
-  // Energie (en Joule) = masse x vitesse ²
+  // Energie (en Joule) = 0.5 x masse x vitesse ²
   // utile Math pour le calcul au carré
   // 📝 https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt
   //

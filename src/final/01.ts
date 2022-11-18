@@ -19,6 +19,6 @@ function printGender(isMale: boolean) {
 }
 
 displayText(`${sayHello('Mike')}`)
-displayText(`La somme de 2 et 3 somme ${sum(2, 3)}`)
+displayText(`La somme de 2 et 3 vaut ${sum(2, 3)}`)
 displayText(`Bonjour ${printGender(true)}`)
 displayText(`Bonjour ${printGender(false)}`)
