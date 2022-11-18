@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://go.mikecodeur.com/react-mastery">TypeScript Fondamentaux 🚀 </a></h1>
+  <h1 align="center"><a href="https://go.mikecodeur.com/typescript-pro">TypeScript Fondamentaux 🚀 </a></h1>
   <strong>
     Module sur les fondamentaux de TypeScript 
   </strong>
@@ -65,8 +65,8 @@ Après avoir installé et configuré les bonnes versions sur votre machine, vous
 pouvez executer cette commande pour pour demarrer la configuration du projet :
 
 ```
-git clone https://github.com/MikeCodeur/react-module-template.git
-cd react-module-template
+git clone https://github.com/MikeCodeur/typescript-fondamentaux.git
+cd typescript-fondamentaux
 npm run init
 ```
 
@@ -164,7 +164,7 @@ Merci aux contributeurs
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://mikecodeur.com"><img src="https://avatars.githubusercontent.com/u/595162?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mike Codeur</b></sub></a><br /><a href="https://github.com/mikecodeur/react-module-template/commits?author=mikecodeur" title="Code">💻</a> <a href="https://github.com/mikecodeur/react-module-template/commits?author=mikecodeur" title="Documentation">📖</a> <a href="#infra-mikecodeur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/mikecodeur/react-module-template/commits?author=mikecodeur" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://mikecodeur.com"><img src="https://avatars.githubusercontent.com/u/595162?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mike Codeur</b></sub></a><br /><a href="https://github.com/mikecodeur/typescript-fondamentaux/commits?author=mikecodeur" title="Code">💻</a> <a href="https://github.com/mikecodeur/typescript-fondamentaux/commits?author=mikecodeur" title="Documentation">📖</a> <a href="#infra-mikecodeur" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/mikecodeur/typescript-fondamentaux/commits?author=mikecodeur" title="Tests">⚠️</a></td>
   </tr>
   
 </table>
@@ -189,15 +189,15 @@ A la fin de l'exercice, tu peux aller à cette adresse pour nous donner ton avis
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/workflow/status/MikeCodeur/react-module-template/installation
-[build]: https://github.com/MikeCodeur/react-module-template/actions
+[build-badge]: https://img.shields.io/github/workflow/status/MikeCodeur/typescript-fondamentaux/installation
+[build]: https://github.com/MikeCodeur/typescript-fondamentaux/actions
 [netlify-badge]: https://api.netlify.com/api/v1/badges/3bf97d4c-9be9-4459-a6b5-2c9a4c3ca533/deploy-status
 [netlify]: https://app.netlify.com/sites/pensive-stonebraker-de3913/deploys
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/mikecodeur/react-module-template/blob/main/LICENSE
+[license]: https://github.com/mikecodeur/typescript-fondamentaux/blob/main/LICENSE
 [all-contributors]: https://github.com/mikecodeur/all-contributors
-[all-contributors-badge]: https://img.shields.io/github/all-contributors/mikecodeur/react-module-template?color=orange&style=flat-square
+[all-contributors-badge]: https://img.shields.io/github/all-contributors/mikecodeur/typescript-fondamentaux?color=orange&style=flat-square
 [win-path]: https://tutorielsgeek.com/comment-definir-des-variables-denvironnement-dans-windows-10/
 [mac-path]: https://support.apple.com/fr-tn/guide/terminal/apd382cc5fa-4f58-4449-b20a-41c53c006f8f/mac
-[issue]: https://github.com/mikecodeur/react-module-template/issues/new
+[issue]: https://github.com/mikecodeur/typescript-fondamentaux/issues/new
 <!-- prettier-ignore-end -->
