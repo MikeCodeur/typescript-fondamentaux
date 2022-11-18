@@ -66,7 +66,7 @@ class Dog extends Animal implements Mammal {
 
 class Fish extends Animal implements Swimable {
   constructor(name: string) {
-    super(name, 4, false)
+    super(name, 0, true)
   }
   swim() {
     console.log(`Je nage`)
