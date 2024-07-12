@@ -1,3 +1,4 @@
+"use client"
 // Les types aliases
 // http://localhost:3000/alone/final/04.ts
 

@@ -1,3 +1,4 @@
+"use client"
 // Les tuples
 // http://localhost:3000/alone/final/06.ts
 

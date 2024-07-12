@@ -1,3 +1,4 @@
+"use client"
 // Les literal type & Enum
 // http://localhost:3000/alone/final/05.ts
 

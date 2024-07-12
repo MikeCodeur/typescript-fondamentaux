@@ -1,3 +1,4 @@
+"use client"
 // Les Enum
 // 🚀 Mixed Type
 // http://localhost:3000/alone/final/05.bonus-2.js

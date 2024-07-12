@@ -1,3 +1,4 @@
+"use client"
 // Les tableaux
 // http://localhost:3000/alone/exercise/02.ts
 

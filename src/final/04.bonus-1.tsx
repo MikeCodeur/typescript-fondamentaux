@@ -1,3 +1,4 @@
+"use client"
 // Les types aliases
 // 🚀 Récursive Type
 // http://localhost:3000/alone/final/04.bonus-1.js

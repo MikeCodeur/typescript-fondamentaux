@@ -1,3 +1,4 @@
+"use client"
 // Les interfaces
 // 🚀 Extending a type via intersections
 // http://localhost:3000/alone/exercise/09.bonus-1.ts

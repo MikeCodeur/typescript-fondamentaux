@@ -1,3 +1,4 @@
+"use client"
 // Les fonctions
 // 🚀 CallBack
 // http://localhost:3000/alone/exercise/08.bonus-1.ts

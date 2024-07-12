@@ -1,3 +1,4 @@
+"use client"
 // Les Tuples
 // 🚀 Combine avec un Enum
 // http://localhost:3000/alone/final/06.bonus-1.js

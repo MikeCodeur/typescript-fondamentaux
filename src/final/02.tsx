@@ -1,3 +1,4 @@
+"use client"
 // Les tableaux
 // http://localhost:3000/alone/final/02.ts
 

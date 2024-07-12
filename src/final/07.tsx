@@ -1,3 +1,4 @@
+"use client"
 // Les opérateurs & Cast de types
 // http://localhost:3000/alone/exercise/07.ts
 

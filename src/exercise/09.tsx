@@ -1,3 +1,4 @@
+"use client"
 // Les fonctions
 // http://localhost:3000/alone/exercise/08.ts
 

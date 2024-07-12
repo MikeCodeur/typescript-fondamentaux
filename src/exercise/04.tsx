@@ -1,3 +1,4 @@
+"use client"
 // Les types alias
 // http://localhost:3000/alone/exercise/04.ts
 

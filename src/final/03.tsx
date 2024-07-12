@@ -1,3 +1,4 @@
+"use client"
 // Les objets
 // http://localhost:3000/alone/final/03.ts
 

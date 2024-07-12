@@ -1,3 +1,4 @@
+"use client"
 // Les Enum
 // 🚀 Auto-increment
 // http://localhost:3000/alone/final/05.bonus-1.js

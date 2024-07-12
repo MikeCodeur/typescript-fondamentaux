@@ -1,3 +1,4 @@
+"use client"
 /* eslint-disable @typescript-eslint/no-unused-vars */
 // Les Types de bases
 // http://localhost:3000/alone/exercise/01.ts
